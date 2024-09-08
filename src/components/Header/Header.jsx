@@ -23,7 +23,7 @@ function Header() {
     },
 
     {
-      name: "SignUp",
+      name: "Sign-Up",
       slug: "/signup",
       active: !authStatus,
     },
@@ -42,11 +42,11 @@ function Header() {
   ];
 
   return (
-    <header className="py-3 shadow bg-[#1A1E22]">
+    <header className="py-2 shadow bg-[#1A1E22]">
       <Container>
         <nav className="flex bg-[#1A1E22]">
           <div className="mr-4 flex">
-            <h1 className="px-2 text-4xl py-2 text-white"> BlogIt</h1>
+            <h1 className="px-2 text-4xl py-1 text-white"> BlogIt</h1>
           </div>
           <ul className="flex ml-auto">
             {navItems.map((item) =>
