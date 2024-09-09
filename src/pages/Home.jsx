@@ -87,7 +87,7 @@ function Home() {
                         </div>
                         <div className="flex flex-col">
                           <span className="text-[#262695]">
-                            Vijayshri Gupta
+                            John Doe
                           </span>
                           <span className="text-[#887e7e]">Jun 30, 2024</span>
                         </div>
@@ -129,7 +129,7 @@ function Home() {
                         </div>
                         <div className="flex flex-col">
                           <span className="text-[#262695]">
-                            Vijayshri Gupta
+                            John Doe
                           </span>
                           <span className="text-[#887e7e]">Jun 30, 2024</span>
                         </div>
@@ -171,7 +171,7 @@ function Home() {
                         </div>
                         <div className="flex flex-col">
                           <span className="text-[#262695]">
-                            Vijayshri Gupta
+                            John Doe
                           </span>
                           <span className="text-[#887e7e]">Jun 30, 2024</span>
                         </div>
