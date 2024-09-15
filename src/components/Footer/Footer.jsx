@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Social Media Logos */}
         <div className="flex justify-center space-x-8 mb-6">
         <a
-        href="https://twitter.com"
+        href="https://x.com/Sar_1707"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-blue-500 transition duration-300"
@@ -18,7 +18,7 @@ const Footer = () => {
         <RxTwitterLogo size={30} />
       </a>
       <a
-        href="https://discord.com"
+        href="https://discord.com/channels/1159146971819425862/1159146971819425865"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-indigo-600 transition duration-300"
@@ -26,7 +26,7 @@ const Footer = () => {
         <FaDiscord size={30} />
       </a>
       <a
-        href="https://linkedin.com"
+        href="https://www.linkedin.com/in/sarvesh-gupta17/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-blue-700 transition duration-300"
@@ -34,7 +34,7 @@ const Footer = () => {
         <FaLinkedin size={30} />
       </a>
       <a
-        href="https://instagram.com"
+        href="https://www.instagram.com/sarvesh_1703/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-pink-500 transition duration-300"
@@ -42,7 +42,7 @@ const Footer = () => {
         <FaInstagram size={30} />
       </a>
       <a
-        href="https://youtube.com"
+        href="https://www.youtube.com/@SarveshGupta1707"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-600 hover:text-red-600 transition duration-300"
