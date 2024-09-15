@@ -22,9 +22,9 @@ function Home() {
   return (
     <div className="w-full py-8 mt-4 text-center bg-white">
       <Container>
-        <div className="pl-[80%] text-2xl">
+        <div className="pl-[70%] text-2xl">
           <h1> Guest Credentials : </h1>
-          <h1>username : guest123</h1>
+          <h1>username : guest@gmail.com</h1>
           <h1>password : 12345678</h1>
         </div>
         <div className="flex flex-wrap">
